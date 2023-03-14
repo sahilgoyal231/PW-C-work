@@ -2,7 +2,5 @@
 using namespace std;
 int main(){
 
-    cout<<"Hello World !";
-
-    return 0;
+    cout<< "ASCII value of U is : "<< (int)'U'<<endl; 
 }
